@@ -67,7 +67,7 @@ else{
 
     </head>
     <body>
-        <div class="loader-bg"></div>
+        <div class="loader--bg"></div>
         <div class="loader">
             <div class="preloader-wrapper big active">
                 <div class="spinner-layer spinner-blue">
